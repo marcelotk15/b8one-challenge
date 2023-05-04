@@ -1,7 +1,7 @@
 import { type PropsWithChildren } from 'react'
 
 import { OrderFormProvider } from '~/contexts/OrderForm'
-import { WishListProvider } from '~/contexts/Wishlist'
+import { WishListProvider } from '~/contexts/WishList'
 
 export function Providers({ children }: PropsWithChildren) {
   return (
