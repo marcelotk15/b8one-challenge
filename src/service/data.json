@@ -1,0 +1,46 @@
+[
+  {
+    "productId": 316572945,
+    "title": "TV Philco 32\" HD PTV32A21DFH 2X HDMI 2X USB Conversor digital integrado",
+    "price": 788.42,
+    "listPrice": 919.0,
+    "image": "https://carrefourbr.vteximg.com.br/arquivos/ids/104689015/tv-philco-32--hd-ptv32a21dfh-2x-hdmi-2x-usb-conversor-digital-integrado-1.jpg?v=638137935477400000",
+    "installmentsOptions": {
+      "fowardprice": 78.84,
+      "numberOfInstallments": 10
+    }
+  },    
+  {
+    "productId": 9550918,
+    "title": "Samsung Smart TV 50\" UHD 4K 50AU7700, Processador Crystal 4K, Tela sem limites, Visual Livre de Cabos, Alexa built in, Controle Único Bivolt",
+    "price": 2504.21,
+    "listPrice": 2748.9,
+    "image": "https://carrefourbr.vteximg.com.br/arquivos/ids/86990199/samsung-smart-tv-50--uhd-4k-50au7700-processador-crystal-4k-tela-sem-limites-visual-livre-de-cabos-alexa-built-in-controle-unico-1.jpg?v=638042838192800000",
+    "installmentsOptions": {
+      "fowardprice": 250.42,
+      "numberOfInstallments": 10
+    }
+  },
+  {
+    "productId": 317584841,
+    "title": "Smart TV Philco 50\" 4K PTV50G70R2CSGBL  HDR10 Dolby Audio 4X HDMI 2.0 WiFi Roku TV",
+    "price": 2094.74,
+    "listPrice": 2198.95,
+    "image": "https://carrefourbr.vteximg.com.br/arquivos/ids/97984635/tv-50-philco-smart-4k-rk-ptv50g70r2csgbl-1.jpg?v=638103358388600000",
+    "installmentsOptions": {
+      "fowardprice": 209.47,
+      "numberOfInstallments": 10
+    }
+  },
+  {
+    "productId": 9508800,
+    "title": "Samsung Smart TV 43\" UHD 4K 43AU7700, Processador Crystal 4K, Tela sem limites, Alexa built in, Controle Único",
+    "price": 1989.47,
+    "listPrice": 2193.0,
+    "image": "https://carrefourbr.vteximg.com.br/arquivos/ids/86997164/samsung-smart-tv-43--uhd-4k-43au7700-processador-crystal-4k-tela-sem-limites-alexa-built-in-controle-unico-1.jpg?v=638042875052100000",
+    "installmentsOptions": {
+      "fowardprice": 198.94,
+      "numberOfInstallments": 10
+    }
+  }
+]

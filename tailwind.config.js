@@ -2,7 +2,16 @@
 export default {
   content: ["./src/**/*.{ts,tsx}"],
   theme: {
-    extend: {},
+    container: {
+      center: true,
+      padding: {
+        DEFAULT: '1rem',
+        lg: '2rem',
+      },
+      screens: {
+        '2xl': '72rem',
+      },
+    },
   },
   plugins: [],
 }
