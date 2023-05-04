@@ -1,14 +1,13 @@
 import { type ButtonHTMLAttributes, forwardRef, useMemo, useCallback } from 'react'
 import { cva } from 'class-variance-authority'
 
-import { useProduct } from '../../contexts/Product'
-import { useOrderForm } from '../../contexts/OrderForm'
-import { Icons } from '../Icons'
-
+import { useProduct } from '~/contexts/Product'
+import { useOrderForm } from '~/contexts/OrderForm'
+import { Icons } from '~/components/Icons'
 import { cn } from '~/lib/utils'
 
 const addToCartVariants = cva(
-  'flex items-center justify-center rounded px-6 py-3 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none ring-offset-background uppercase font-bold gap-3 text-sm',
+  'flex items-center justify-center rounded px-6 py-3 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none ring-offset-background uppercase font-bold gap-3 text-sm leading-6',
   {
     variants: {
       variant: {
